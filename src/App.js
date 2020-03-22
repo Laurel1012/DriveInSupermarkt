@@ -15,11 +15,11 @@ function App() {
             <p>
                 <h1>Finde Drive-In Supermärke in deiner Umgebung!</h1>
                 <SearchBarComponent />
-                <RegisterButtonComponent />
+                <RegisterButtonComponent textButton="Als Store registrieren" textRegistered="Du bist jetzt als Store registriert."/>
+                <RegisterButtonComponent textButton="Als KundIn registrieren" textRegistered="Du bist jetzt als KundIn registriert."/>
                 <Footer />
 
             </p>
-
         </div>
         </div>
   );

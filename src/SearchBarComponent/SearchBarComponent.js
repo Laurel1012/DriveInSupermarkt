@@ -27,6 +27,7 @@ class SearchBarComponent extends React.Component {
 
     setData(responseData) {
 
+
     }
 
     sendData(newMerchantData) {

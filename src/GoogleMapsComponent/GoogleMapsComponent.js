@@ -1,5 +1,5 @@
+// https://github.com/fullstackreact/google-maps-react und https://www.newline.co/fullstack-react/articles/how-to-write-a-google-maps-react-component/#the-map-container-component
 import React from "react";
-//import GoogleApiComponent from "google-maps-react";
 import {Map, InfoWindow, Marker, GoogleApiWrapper} from 'google-maps-react';
 
 export class GoogleMapsComponent extends React.Component {
@@ -21,28 +21,4 @@ export class GoogleMapsComponent extends React.Component {
     }
 }
 export default GoogleApiWrapper({
-    apiKey: "AIzaSyAyesbQMyKVVbBgKVi2g6VX7mop2z96jBo"
-})(GoogleMapsComponent)
-
-
-/*
-import {Map} from "./Map";
-
-class GoogleMapsComponent extends React.Component{
-    render() {
-        const style = {
-            width: '100vw',
-            height: '100vh'
-        };
-        return (
-            <div style={style}>
-                <Map google={this.props.google}
-                />
-            </div>
-        )
-    }
-}
-export default GoogleMapsComponent/*GoogleApiComponent({
-    apiKey: "AIzaSyAyesbQMyKVVbBgKVi2g6VX7mop2z96jBo",
-    google: this.google,
-})(GoogleMapsComponent);*/
+})(GoogleMapsComponent);

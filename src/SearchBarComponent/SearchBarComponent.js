@@ -103,8 +103,6 @@ class SearchBarComponent extends React.Component {
             },
 
         ];
-
-
         return (
             <div style={{ Width: "100%" }}>
                 <MaterialTable

@@ -1,17 +1,20 @@
 import React from "react";
-import registerMerchant from "../utils/registerMerchant.js";
+import { Form }  from "react-bootstrap";
 
 class RegisterButtonComponent extends React.Component{
+
+
     render(){
         return (
-            <div>
+            <p>
                 <p>This is the Button Component for merchants to register</p>
-                <button onClick={()=> document.getElementById("register").innerText = "You are now registrated"
+                <button onClick={()=> document.getElementById("register").innerText = "Du bist nun registriert"
                 }>Registriere dich hier:</button>
-                <p id="register" />
-            </div>
-
+                <p id="register"></p>
+            </p>
         )
     }
 }
+
+
 export default RegisterButtonComponent;

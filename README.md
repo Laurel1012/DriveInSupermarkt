@@ -1,3 +1,17 @@
+### What it is 
+This is the frontend of the Drive-In-Supermarkt Prototype for the #wirvsvirus hackathon.
+It depends on [Moritz Lenz'](https://github.com/moritz/supermarket-drivein#readme) backend. Also, it uses [material-table](https://github.com/mbrn/material-table) and [google-maps-react](https://github.com/fullstackreact/google-maps-react).
+
+### What is possible?
+
+### What is not yet possible?
+
+
+### Note
+This is only a prototype and there is no warranty whatsoever that it will work for a specific topic and it has not been tested for every possible case. 
+
+
+---------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

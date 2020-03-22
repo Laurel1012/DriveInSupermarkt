@@ -2,11 +2,27 @@
 This is the frontend of the Drive-In-Supermarkt Prototype for the #wirvsvirus hackathon.
 It depends on [Moritz Lenz'](https://github.com/moritz/supermarket-drivein#readme) backend. Also, it uses [material-table](https://github.com/mbrn/material-table) and [google-maps-react](https://github.com/fullstackreact/google-maps-react).
 
-### What is possible?
+### What it does?
+It is a static website so far, so the table is searchable. 
 
-### What is not yet possible?
+### What needs to be done?
+- Connect the google maps card to the table 
+- How to register site: get information according to the [backend specs](https://github.com/moritz/supermarket-drivein#readme), send POST request, render table
+- Get information from backend -> GET request
+- Footer with Sites: "Kontakt", "FAQ", etc
+- How to register as guest
+- get google api key
+- also, there needs to be another section at the backend for keeping track of the customer data.
 
-
+### Documentation
+#### Footer
+Does nothing but return a paragraph.
+#### GoogleMapsComponents
+200px height; based on google-maps-react, possible ways to go forward: ask for permission to get locations -> display location of partner stores, display that stores in table
+#### RegisterButtonComponent
+Button Component that should open a dialog for getting the information of the merchants and the customers. 
+#### SearchBarComponent
+Handles the table and the search bar. At this moment, the data in the table is static. Implementation for the connection between front and backend is still necessary. But basic GET and POST functions are available. 
 ### Note
 This is only a prototype and there is no warranty whatsoever that it will work for a specific topic and it has not been tested for every possible case. 
 

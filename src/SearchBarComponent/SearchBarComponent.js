@@ -20,6 +20,15 @@ import Search from '@material-ui/icons/Search';
 import ViewColumn from '@material-ui/icons/ViewColumn';
 
 class SearchBarComponent extends React.Component {
+    constructor(props) {
+        super(props);
+        this.data = undefined;
+    }
+
+    setData(responseData) {
+
+    }
+
     sendData(newMerchantData) {
         let xhr = new XMLHttpRequest();
         xhr.addEventListener('load', () => {
@@ -33,6 +42,7 @@ class SearchBarComponent extends React.Component {
     componentWillMount() {
         this.getData()
     }
+
 
     getData(){
         let xhr = new XMLHttpRequest();

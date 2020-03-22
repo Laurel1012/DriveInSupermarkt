@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a336bc8c-573a-4144-9aa7-4bb5cae3d9dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RegisterButtonComponent/RegisterButtonComponent.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RegisterButtonComponent/RegisterButtonComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegisterButtonComponent/RegisterButtonComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchBarComponent/SearchBarComponent.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchBarComponent/SearchBarComponent.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SearchBarComponent/SearchBarComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchBarComponent/SearchBarComponent.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584894808664</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="css changes">
+      <created>1584899183674</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584899183674</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,17 +128,18 @@
     <MESSAGE value="google maps working" />
     <MESSAGE value="table working and filled with one row of data" />
     <MESSAGE value="communication with backend possible" />
-    <option name="LAST_COMMIT_MESSAGE" value="communication with backend possible" />
+    <MESSAGE value="css changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="css changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584878166941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584878166941" />
-    <state x="406" y="11" key="CommitChangelistDialog2" timestamp="1584894808029">
+    <state x="406" y="11" key="CommitChangelistDialog2" timestamp="1584899183094">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="406" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584894808029" />
+    <state x="406" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584899183094" />
     <state x="548" y="170" key="FileChooserDialogImpl" timestamp="1584874237275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

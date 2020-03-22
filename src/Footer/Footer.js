@@ -5,3 +5,4 @@ class Footer extends React.Component{
         return (<p>This is the footer</p>)
     }
 }
+export default Footer;

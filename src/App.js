@@ -1,32 +1,31 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import GoogleMapsComponent from "./GoogleMapsComponent";
 import SearchBarComponent from "./SearchBarComponent";
 import RegisterButtonComponent from "./RegisterButtonComponent";
+import Footer from "./Footer";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          <GoogleMapsComponent />
-          <SearchBarComponent />
-          <RegisterButtonComponent />
-          <Footer />
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+
+
+
+
+            <div>
+                <GoogleMapsComponent />
+
+
+      <div className="App">
+            <p>
+                <h1>Finde Drive-In Supermärke in deiner Umgebung!</h1>
+                <SearchBarComponent />
+                <RegisterButtonComponent />
+                <Footer />
+
+            </p>
+
+        </div>
+        </div>
   );
 }
 

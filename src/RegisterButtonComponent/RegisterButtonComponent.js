@@ -5,3 +5,4 @@ class RegisterButtonComponent extends React.Component{
         return (<p>This is the Register Button Component</p>)
     }
 }
+export default RegisterButtonComponent;

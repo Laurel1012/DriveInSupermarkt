@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aa580bb2-10ea-42e9-bbff-2d90f06629d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../DriveInSupermarkt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DriveInSupermarkt/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DriveInSupermarkt/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DriveInSupermarkt/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DriveInSupermarkt/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DriveInSupermarkt/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DriveInSupermarkt/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../DriveInSupermarkt/src/App.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="1">
+              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -201,7 +198,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584822404211</updated>
-      <workItem from="1584822406085" duration="13868000" />
+      <workItem from="1584822406085" duration="14604000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1584863851365</created>
@@ -210,22 +207,28 @@
       <option name="project" value="LOCAL" />
       <updated>1584863851366</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="more components">
+      <created>1584872796668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584872796702</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13868000" />
+    <option name="totallyTimeSpent" value="14604000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="693" height="927" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24847561" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.114950635" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.61585367" visible="true" weight="0.34591195" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.38414633" side_tool="true" visible="true" weight="0.34591195" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.7291961" visible="true" weight="0.34246576" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.27080396" side_tool="true" visible="true" weight="0.34246576" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -249,7 +252,8 @@
       <path value="DriveInSupermarket" />
     </ignored-roots>
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="more components" />
+    <option name="LAST_COMMIT_MESSAGE" value="more components" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/SupermarketTableComponent/index.js">
@@ -335,8 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="1">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa580bb2-10ea-42e9-bbff-2d90f06629d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DriveInSupermarkt/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DriveInSupermarkt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DriveInSupermarkt/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DriveInSupermarkt/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DriveInSupermarkt/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DriveInSupermarkt/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../DriveInSupermarkt/package.json" afterDir="false" />
@@ -19,22 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/App.test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="272">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -46,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/SupermarketTableComponent/SupermarketTableComponent.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -58,7 +46,16 @@
         <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/SearchBarComponent/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="50" selection-start-column="50" selection-end-column="50" />
+              <caret column="50" lean-forward="true" selection-start-column="50" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/RegisterButtonComponent/RegisterButtonComponent.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -66,17 +63,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/SearchBarComponent/SearchBarComponent.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state relative-caret-position="34">
+              <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/GoogleMapsComponent/GoogleMapsComponent.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="238">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -102,18 +99,20 @@
         <option value="$PROJECT_DIR$/../DriveInSupermarkt/src/GoogleMapsComponent/index.js" />
         <option value="$PROJECT_DIR$/../DriveInSupermarkt/src/SearchBar/index.js" />
         <option value="$PROJECT_DIR$/../DriveInSupermarkt/src/SearchBar/SearchBar.js" />
-        <option value="$PROJECT_DIR$/../DriveInSupermarkt/src/SearchBarComponent/SearchBarComponent.js" />
         <option value="$PROJECT_DIR$/../DriveInSupermarkt/src/SearchBarComponent/index.js" />
         <option value="$PROJECT_DIR$/../DriveInSupermarkt/src/SupermarketTableComponent/index.js" />
         <option value="$PROJECT_DIR$/../DriveInSupermarkt/src/SupermarketTableComponent/SupermarketTableComponent.js" />
-        <option value="$PROJECT_DIR$/../DriveInSupermarkt/src/App.js" />
         <option value="$PROJECT_DIR$/../DriveInSupermarkt/src/GoogleMapsComponent/GoogleMapsComponent.js" />
+        <option value="$PROJECT_DIR$/../DriveInSupermarkt/src/SearchBarComponent/SearchBarComponent.js" />
+        <option value="$PROJECT_DIR$/../DriveInSupermarkt/src/RegisterButtonComponent/index.js" />
+        <option value="$PROJECT_DIR$/../DriveInSupermarkt/src/RegisterButtonComponent/RegisterButtonComponent.js" />
+        <option value="$PROJECT_DIR$/../DriveInSupermarkt/src/App.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
-    <option name="width" value="1031" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-6" />
+    <option name="width" value="1040" />
     <option name="height" value="1391" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -138,6 +137,12 @@
               <item name="DriveInSupermarkt" type="b2602c69:ProjectViewProjectNode" />
               <item name="DriveInSupermarkt" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DriveInSupermarkt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DriveInSupermarkt" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RegisterButtonComponent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,22 +201,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584822404211</updated>
-      <workItem from="1584822406085" duration="8030000" />
+      <workItem from="1584822406085" duration="13868000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1584863851365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584863851366</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8030000" />
+    <option name="totallyTimeSpent" value="13868000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="0" width="687" height="927" extended-state="0" />
+    <frame x="-4" y="0" width="693" height="927" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.06" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24847561" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49846154" visible="true" weight="0.34591195" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50153846" side_tool="true" visible="true" weight="0.34591195" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.61585367" visible="true" weight="0.34591195" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.38414633" side_tool="true" visible="true" weight="0.34591195" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -234,22 +248,10 @@
       <path value="$PROJECT_DIR$" />
       <path value="DriveInSupermarket" />
     </ignored-roots>
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/SearchBarComponent/SearchBarComponent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/SearchBarComponent/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="50" selection-start-column="50" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/SupermarketTableComponent/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -257,20 +259,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/SupermarketTableComponent/SupermarketTableComponent.js">
+    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="170">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/index.js">
+    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/GoogleMapsComponent/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        <state>
+          <caret selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/GoogleMapsComponent/GoogleMapsComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -286,27 +295,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/GoogleMapsComponent/index.js">
+    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/SupermarketTableComponent/SupermarketTableComponent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/GoogleMapsComponent/GoogleMapsComponent.js">
+    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/SearchBarComponent/SearchBarComponent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="34">
+          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/RegisterButtonComponent/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/SearchBarComponent/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" lean-forward="true" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/RegisterButtonComponent/RegisterButtonComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DriveInSupermarkt/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

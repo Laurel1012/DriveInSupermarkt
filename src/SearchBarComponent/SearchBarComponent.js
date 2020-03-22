@@ -1,4 +1,6 @@
+// from https://material-table.com/#/
 import React from "react";
+import "./SearchBarComponent.css"
 import MaterialTable from "material-table";
 import { forwardRef } from 'react';
 import AddBox from '@material-ui/icons/AddBox';
@@ -18,6 +20,29 @@ import Search from '@material-ui/icons/Search';
 import ViewColumn from '@material-ui/icons/ViewColumn';
 
 class SearchBarComponent extends React.Component {
+    sendData(newMerchantData) {
+        let xhr = new XMLHttpRequest();
+        xhr.addEventListener('load', () => {
+                console.log(xhr.responseText)
+            }
+        );
+        xhr.open('POST', 'https://drivein.moritzlenz.de/merchant');
+        xhr.send(JSON.stringify(newMerchantData));
+    }
+
+    componentWillMount() {
+        this.getData()
+    }
+
+    getData(){
+        let xhr = new XMLHttpRequest();
+        xhr.addEventListener('load', () => {
+            console.log(xhr.responseText)
+            }
+        );
+        xhr.open('GET', 'https://drivein.moritzlenz.de/merchant');
+        xhr.send();
+    }
     render(){
 
         const tableIcons = {
@@ -54,17 +79,39 @@ class SearchBarComponent extends React.Component {
                 notAvailable: "Klopapier",
                 products: "Nudeln, Bananen, Suppe",
                 orderNow: <button>Online bestellen</button>
-            }
-        ]
+            },
+            {
+                name: "Lebensmittel Ozdemir\nKlausenweg 4",
+                payment: "kontaktlos, abgezähltes Bargeld",
+                notAvailable: "-",
+                products: "Nudeln, Bananen, Klopapier, Suppe",
+                orderNow: <button>Online bestellen, anrufen</button>
+            },
+            {
+                name: "Apotheke Zur Gesundheit\nEngelstrasse 90",
+                payment: "kontaktlos",
+                notAvailable: "-",
+                products: "Paracetamol, Aspirin, Ibuproven, Taschentücher",
+                orderNow: <button>Anrufen</button>
+            },
+            {
+                name: "Drogerie Müller\nAm Graben 30",
+                payment: "kontaktlos, abgezähltes Bargeld",
+                notAvailable: "Nagellackentferner",
+                products: "Taschentücher, Mascara, Klopapier",
+                orderNow: <button>Online bestellen, anrufen</button>
+            },
+
+        ];
 
 
         return (
-            <div style={{ maxWidth: "100%" }}>
+            <div style={{ Width: "100%" }}>
                 <MaterialTable
                     icons={tableIcons}
                     columns={columns}
                     data={data}
-                    title="Teilnehmende Händler in deiner Umgebung"
+                    title="Teilnehmende Händler"
                 />
             </div>
         );
